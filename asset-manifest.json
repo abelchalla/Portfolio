@@ -1,17 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9596825a.css",
-    "main.js": "/portfolio/static/js/main.adb9e53b.js",
+    "main.js": "/portfolio/static/js/main.a816f78b.js",
     "static/js/453.2a416b5b.chunk.js": "/portfolio/static/js/453.2a416b5b.chunk.js",
     "static/media/world.png": "/portfolio/static/media/world.4681d8fba809951ffb2a.png",
+    "static/media/taskScheduler.png": "/portfolio/static/media/taskScheduler.4f4533f2db5bbd66ba9d.png",
+    "static/media/nycApi.png": "/portfolio/static/media/nycApi.84877abee82c658c8057.png",
+    "static/media/RoseHack.png": "/portfolio/static/media/RoseHack.fdc20fa2bf5c2b764ad3.png",
+    "static/media/ucr.png": "/portfolio/static/media/ucr.96cbb6859283b9421082.png",
+    "static/media/ball.png": "/portfolio/static/media/ball.6a4ea5b99e205ba23fb5.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.b130fd75996173bcf39c.jpg",
+    "static/media/laptop.png": "/portfolio/static/media/laptop.ff672704092e66286bb6.png",
+    "static/media/netwrok.png": "/portfolio/static/media/netwrok.7afbdc6c68c1ab5c6f11.png",
+    "static/media/amazon.png": "/portfolio/static/media/amazon.d3184a9f351036e37e20.png",
+    "static/media/drawingOfMe.png": "/portfolio/static/media/drawingOfMe.6960f32b938f9434486b.png",
+    "static/media/acm.png": "/portfolio/static/media/acm.d59ffb6938cf51907b04.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.8f06dab27ee4c677790c.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
     "main.9596825a.css.map": "/portfolio/static/css/main.9596825a.css.map",
-    "main.adb9e53b.js.map": "/portfolio/static/js/main.adb9e53b.js.map",
+    "main.a816f78b.js.map": "/portfolio/static/js/main.a816f78b.js.map",
     "453.2a416b5b.chunk.js.map": "/portfolio/static/js/453.2a416b5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9596825a.css",
-    "static/js/main.adb9e53b.js"
+    "static/js/main.a816f78b.js"
   ]
 }
