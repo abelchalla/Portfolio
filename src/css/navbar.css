@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+    padding: 1% 10%;
+    margin: 0;
+    flex-direction: row;
+    justify-content: end;
+    background-color: #FDFFFA;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    color: #d8c8ec;
+
+}
+li {
+    list-style-type: none;
+    padding:0 1.5%;
+    border-right: solid 1px rgb(243, 234, 234);
+}

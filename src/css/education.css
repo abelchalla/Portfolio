@@ -1,0 +1,73 @@
+#education{
+    padding: 5% 10%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #fcfaff;
+}
+
+.white:hover{
+    color: #DDC7FF;
+}
+
+
+.eds{
+    display: flex;
+    gap: 6%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ed-info{
+    display: flex;
+    flex-direction: column;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.nav1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.nav2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.nav1 li:hover{
+    color: #DDC7FF;
+}
+
+
+
+.center{
+    text-align: center;
+    margin: 1%;
+}
+
+.ed{
+    font-size: 24px;
+}
+
+.skills{
+    margin-bottom: 0;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    border-radius: 0;
+}

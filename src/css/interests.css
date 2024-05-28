@@ -1,0 +1,29 @@
+#interests{
+    margin: 0;
+    padding: 0 10%;
+    display: flex;
+    flex-direction: column;
+    background-color:#fcfaff;
+}
+
+.interests{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.interests-info{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+
+.interests-info img{
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (max-width: 900px) {
+    .interests{
+        padding-left: 0;
+    }
+}
